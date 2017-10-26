@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoNavigationMenuAndroid</string>
+    <string name="dangki">Đăng Kí</string>
+    <string name="dangnhap">Đăng Nhập</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
